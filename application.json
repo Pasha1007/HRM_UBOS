@@ -11,8 +11,12 @@
     "deleted": false,
     "pages": [
         {
-            "_id": "home",
+            "_id": "Company",
             "isDefault": true
+        },
+        {
+            "_id": "Jobs",
+            "isDefault": false
         }
     ],
     "policies": [
