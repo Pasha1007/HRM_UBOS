@@ -1,0 +1,231 @@
+{
+    "_id": "65d78219e9469e410e5f1f1f",
+    "name": "uieditor-8667",
+    "slug": "uieditor-8667",
+    "organizationId": "Org",
+    "isPublic": false,
+    "isMenu": false,
+    "isShowPlatformTag": true,
+    "createdAt": "2024-02-22T17:19:21.100Z",
+    "updatedAt": "2024-02-23T11:41:32.397Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "appLayout": {
+        "type": "FLUID"
+    },
+    "settings_data": {
+        "httpIns": [
+            {
+                "label": "POST |  | /create",
+                "value": {
+                    "url": "/create",
+                    "method": "post",
+                    "datasource": {
+                        "datasourceConfiguration": {
+                            "orgId": "65d77f7eb8e04e1200000003",
+                            "url": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "product_price": null,
+                            "cpu": 250,
+                            "ram": 512,
+                            "subscription_plan": "65095119f74e030011361ae3",
+                            "plan_id": "65095119f74e030011361ae3",
+                            "subscription_id": null,
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733"
+                        },
+                        "id": "65d78103b8e04e1200000008",
+                        "invalids": [],
+                        "isValid": true,
+                        "name": "nodered-0733",
+                        "new": false,
+                        "type": "api",
+                        "organizationId": "Org",
+                        "pluginId": "API",
+                        "userPermissions": [
+                            "read:service",
+                            "manage:service"
+                        ],
+                        "settings_data": {
+                            "gitName": "",
+                            "projectName": "nodered-0733",
+                            "systemType": "latest",
+                            "gitUrl": "",
+                            "gitPassword": "",
+                            "urlNodeRed": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733",
+                            "applicationId": "65d77f7fb8e04e1200000004",
+                            "env": [],
+                            "status": "ready"
+                        }
+                    }
+                }
+            },
+            {
+                "label": "GET |  | /read",
+                "value": {
+                    "url": "/read",
+                    "method": "get",
+                    "datasource": {
+                        "datasourceConfiguration": {
+                            "orgId": "65d77f7eb8e04e1200000003",
+                            "url": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "product_price": null,
+                            "cpu": 250,
+                            "ram": 512,
+                            "subscription_plan": "65095119f74e030011361ae3",
+                            "plan_id": "65095119f74e030011361ae3",
+                            "subscription_id": null,
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733"
+                        },
+                        "id": "65d78103b8e04e1200000008",
+                        "invalids": [],
+                        "isValid": true,
+                        "name": "nodered-0733",
+                        "new": false,
+                        "type": "api",
+                        "organizationId": "Org",
+                        "pluginId": "API",
+                        "userPermissions": [
+                            "read:service",
+                            "manage:service"
+                        ],
+                        "settings_data": {
+                            "gitName": "",
+                            "projectName": "nodered-0733",
+                            "systemType": "latest",
+                            "gitUrl": "",
+                            "gitPassword": "",
+                            "urlNodeRed": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733",
+                            "applicationId": "65d77f7fb8e04e1200000004",
+                            "env": [],
+                            "status": "ready"
+                        }
+                    }
+                }
+            },
+            {
+                "label": "PUT |  | /update",
+                "value": {
+                    "url": "/update",
+                    "method": "put",
+                    "datasource": {
+                        "datasourceConfiguration": {
+                            "orgId": "65d77f7eb8e04e1200000003",
+                            "url": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "product_price": null,
+                            "cpu": 250,
+                            "ram": 512,
+                            "subscription_plan": "65095119f74e030011361ae3",
+                            "plan_id": "65095119f74e030011361ae3",
+                            "subscription_id": null,
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733"
+                        },
+                        "id": "65d78103b8e04e1200000008",
+                        "invalids": [],
+                        "isValid": true,
+                        "name": "nodered-0733",
+                        "new": false,
+                        "type": "api",
+                        "organizationId": "Org",
+                        "pluginId": "API",
+                        "userPermissions": [
+                            "read:service",
+                            "manage:service"
+                        ],
+                        "settings_data": {
+                            "gitName": "",
+                            "projectName": "nodered-0733",
+                            "systemType": "latest",
+                            "gitUrl": "",
+                            "gitPassword": "",
+                            "urlNodeRed": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733",
+                            "applicationId": "65d77f7fb8e04e1200000004",
+                            "env": [],
+                            "status": "ready"
+                        }
+                    }
+                }
+            },
+            {
+                "label": "DELETE |  | /delete",
+                "value": {
+                    "url": "/delete",
+                    "method": "delete",
+                    "datasource": {
+                        "datasourceConfiguration": {
+                            "orgId": "65d77f7eb8e04e1200000003",
+                            "url": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "product_price": null,
+                            "cpu": 250,
+                            "ram": 512,
+                            "subscription_plan": "65095119f74e030011361ae3",
+                            "plan_id": "65095119f74e030011361ae3",
+                            "subscription_id": null,
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733"
+                        },
+                        "id": "65d78103b8e04e1200000008",
+                        "invalids": [],
+                        "isValid": true,
+                        "name": "nodered-0733",
+                        "new": false,
+                        "type": "api",
+                        "organizationId": "Org",
+                        "pluginId": "API",
+                        "userPermissions": [
+                            "read:service",
+                            "manage:service"
+                        ],
+                        "settings_data": {
+                            "gitName": "",
+                            "projectName": "nodered-0733",
+                            "systemType": "latest",
+                            "gitUrl": "",
+                            "gitPassword": "",
+                            "urlNodeRed": "https://nodered-0733-65d77f7eb8e04e1200000003.platform.ubos.tech",
+                            "serviceId": "nodered-0733-ubos-bswrn-nodered-0733",
+                            "applicationId": "65d77f7fb8e04e1200000004",
+                            "env": [],
+                            "status": "ready"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/Pasha1007/HRM_UBOS",
+        "defaultApplicationId": "uieditor-8667",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:Pasha1007/HRM_UBOS.git",
+        "repoName": "HRM_UBOS"
+    }
+}
